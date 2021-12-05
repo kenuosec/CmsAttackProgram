@@ -16,6 +16,7 @@ CmsAttackProgram 是一款图形化专门针对cms的漏洞利用工具。用户
 <a target="_blank" rel="noopener noreferrer"><img  alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Anonymous-ghost/CmsAttackProgram?color=gree" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/Anonymous-ghost/CmsAttackProgram" style="max-width:100%;"></a></p>
 <h1>Cms收录如下</h1>
+注意:其中的maccms 8和maccms 10指纹有冲突自行生成指纹。参考cms.txt文件
 <ul>
 <li>AspCms&nbsp;&nbsp;&nbsp;DedeCms&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ecshop&nbsp;&nbsp;&nbsp;FCKeditor  </li>
 <li>FineCms&nbsp;&nbsp;&nbsp;MacCms&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OmWeb&nbsp;&nbsp;&nbsp;OpenSns     </li>
