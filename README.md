@@ -22,7 +22,7 @@ CmsAttackProgram 是一款图形化专门针对cms的漏洞利用工具。用户
 <li>FineCms&nbsp;&nbsp;&nbsp;MacCms&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OmWeb&nbsp;&nbsp;&nbsp;OpenSns     </li>
 <li>PhpWeb&nbsp;&nbsp;&nbsp;QiBoCms&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SouthDic&nbsp;&nbsp;&nbsp;Zabbix </li>
 <li>致远OA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;YiQiCms&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eyoucms&nbsp;&nbsp;&nbsp;LJcms       </li> 
-<li>phpok&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oklit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e&nbsp;&nbsp;&nbsp;ezEIP&nbsp;&nbsp;&nbsp;phpcms </li>
+<li>phpok&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oklite&nbsp;&nbsp;&nbsp;ezEIP&nbsp;&nbsp;&nbsp;phpcms </li>
 <li>pageAdmin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jymusic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BigIp&nbsp;&nbsp;&nbsp;WordPress </li>
 <li>seacms&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;u163pan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;zzzcms&nbsp;&nbsp;&nbsp;PowerCreatorCms </li>
 <li>FHAdmin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;YongYouNC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;晨光cms&nbsp;&nbsp;&nbsp;GameDomain </li>
