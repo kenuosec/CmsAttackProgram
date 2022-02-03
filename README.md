@@ -3,7 +3,7 @@
 CmsAttackProgram 是一款图形化专门针对cms的漏洞利用工具。用户只需要收集url导入即可进行自动化测试cms。cms正在不断加入中。。。
 <h1>软件更新日志</h1>
 <ul>
-    <li>2021-12-19 新增apxcms</li>
+
     <li>2021-12-09 加入更新功能</li>
    <li>2021-12-05 增加key文件</li>
   <li>2021-11-05 更新utf8更新pigcms</li>
@@ -29,7 +29,7 @@ CmsAttackProgram 是一款图形化专门针对cms的漏洞利用工具。用户
 <li>seacms&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;u163pan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;zzzcms&nbsp;&nbsp;&nbsp;PowerCreatorCms </li>
 <li>FHAdmin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;YongYouNC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;晨光cms&nbsp;&nbsp;&nbsp;GameDomain </li>
 <li>Discuz!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maccms10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;phpoa&nbsp;&nbsp;&nbsp;faka平台 </li>
-<li>maxcms&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pigcms&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beecms&nbsp;&nbsp;&nbspapxcms</li>
+<li>maxcms&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pigcms&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beecms&nbsp;&nbsp;</li>
 </ul>
 <h1>Cms测试截图</h1>
 这款工具等时机成熟会放出来的暂时不放
